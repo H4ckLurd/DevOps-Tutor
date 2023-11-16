@@ -1,4 +1,4 @@
-# learnt AWS CICD Pipeline Code Deployment to AWS EC2 Instance from  Ram Hemareddy 
+# This is my staging environment for code deployment.
 
 
 <b>User Data for Dependencies installations for AMAZON Linux 2:-</b>
